@@ -1,1 +1,3 @@
 welcome to Github
+
+This project demonstrates how to review changes.
